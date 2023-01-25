@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="bioProj" />
         <module name="tomcatProj" />
         <module name="WongRPC" />
+        <module name="bioProj" />
+        <module name="practiseProj" />
       </profile>
     </annotationProcessing>
   </component>
